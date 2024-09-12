@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="76aa9940-a589-4333-8aff-3589c3909b9d" name="PHP latest" home="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2021.2/plugins/idea-php-latest-plugin/php-v7.3.1/php.sh" debugger_id="php.debugger.XDebug" />
+      <interpreter id="dd4cd490-e334-4e4f-b097-b888a4aae9cc" name="PHP latest" home="$USER_HOME$/Library/Caches/JetBrains/PhpStorm2024.2/plugins/idea-php-latest-plugin/php-v7.3.1/php.sh" auto="false" debugger_id="php.debugger.XDebug" />
     </interpreters>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
 </project>
